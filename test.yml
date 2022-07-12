@@ -1,0 +1,27 @@
+name: Siddharth
+age: 28
+address: "11-B professor Colony Hostel Road Yamunanagar Haryana"
+active: true
+key:
+    key: value
+    key2: 33
+    key3:
+        key: value
+        key2: value
+jsonObject: {key: value, key2: 33, key3: {key: value, key2: value} }
+array:
+      - item1
+      - item2
+      - { key: value }
+jsonArray: [item1, item2]
+objectArray:
+      - key: value
+        key2: value2
+      - key: value
+        key2: value2
+longText: |
+    chak dhak chak dhak
+    Siddharth Bhardwaj
+    Sanjay Bhardwaj
+    Seema Bhardwaj
+      
